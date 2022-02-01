@@ -1,0 +1,17 @@
+commit 2561ccb3d81b8c8d4b5733bb9fdf2b79e6852883
+Author: fr-math <f.r.sinapsis@gmail.com>
+Date:   Mon Jan 31 21:57:29 2022 -0300
+
+    Primer versión de 'ejercicios_python'. Es la versión correspondiente al fin del curso 'Programación en Python' de UNSAM del año 2021.
+
+commit d455a61c34cc4c13ff80e92368cfb5fc988d9820
+Author: fr-math <francorimoli@yahoo.com.ar>
+Date:   Sat Jul 24 21:39:04 2021 -0300
+
+    Added test, temp folders, test.txt, temp-test.txt files
+
+commit 2f2f587d0a32bacc91101fff5eb49d0adb21a3b6
+Author: fr-math <francorimoli@yahoo.com.ar>
+Date:   Thu Jul 22 22:46:02 2021 -0300
+
+    Initial commit
