@@ -1,0 +1,21 @@
+from rectangulo import Punto
+from rectangulo import Rectangulo
+
+ul = Punto(0,2)
+lr = Punto(1,0)
+ll = Punto(0,0)
+ur = Punto(1,2)
+des = Punto(2,2)
+rect1 = Rectangulo(ul,lr)
+rect2 = Rectangulo(ll,ur)
+rect1.base()
+rect2.base()
+rect1.altura()
+rect2.altura()
+rect1.desplazar(des)
+rect1.rotar()
+rect2.rotar()
+rect1.base()
+rect2.base()
+rect1.altura()
+rect2.altura()

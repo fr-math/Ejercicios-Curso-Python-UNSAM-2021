@@ -1,0 +1,134 @@
+TIEMPO_HORAS,TIEMPO_MINUTOS,NOMBRE,GENERO,NACIMIENTO_DIA,NACIMIENTO_MES,NACIMIENTO_AÑO,CIuDAD
+9,4,Eduardo Ramón MANRIQUE,M,22,8,1981,Tandil
+9,18,Milton Hernan NIEDFELD,M,8,8,1987,Buenos Aires
+9,28,Guillermo Emilio COMBA,M,3,9,1986,San Carlos de Bariloche
+9,44,Julio ROSSELLI DI RENZO,M,21,8,1977,Buenos Aires
+9,49,Virginia Susana PITTE,F,6,6,1978,Choele Choel
+9,57,Walter Daniel UMAÑA,M,16,7,1976,San Carlos de Bariloche
+10,2,Fabian LOPEZ,M,17,11,1995,San Carlos de Bariloche
+10,9,Martín Nicolás CATALANO,M,18,10,1982,Buenos Aires
+10,13,Daniel AZZI,M,21,3,1973,Rada Tilly
+10,27,Ariel DRUCAROFF,M,27,12,1971,San Carlos de Bariloche
+10,28,Juan Manuel ALBARRACIN,M,22,1,1988,La Plata
+10,31,Marcelo DA COSTA ROLO,M,24,11,1968,Buenos Aires
+10,41,Franco CASE,M,15,10,1996,Bahía Blanca
+10,57,Nicolas SCARANO,M,11,9,1983,Buenos Aires
+11,0,Ezequiel VICENT,M,21,1,1980,Buenos Aires
+11,3,Damian SOVERCHIA,M,7,10,1966,La Plata
+11,5,Nicolas ANDREOLI,M,26,12,1990,Buenos Aires
+11,10,Gustavo UGO,M,6,1,1966,Buenos Aires
+11,27,Jorge NAVARRO,M,16,3,1999,San Carlos de Bariloche
+11,28,Hernan G CIRPIANI,M,4,11,1967,Rada Tilly
+11,33,Juan Pablo GARCIA,M,23,12,1989,Neuquén
+11,34,Domingo GALLICCHIO,M,7,1,1978,Buenos Aires
+11,35,Roque CUEVAS,M,29,10,1955,San Carlos de Bariloche
+11,36,Gustavo Ariel LOMBARDI,M,30,11,1979,La Plata
+11,42,Guillermo  GLATTSTEIN,M,28,2,1970,La Plata
+11,47,Alina ROITMAN,F,27,2,1984,Caba
+11,50,Juan Manuel ASSIRIO,M,23,12,1977,La Plata
+11,51,Natalia RIEGO,F,17,5,1978,Buenos Aires
+11,52,Juan Oscar LEZCANO,M,6,6,1990,Centenario
+11,56,Cristian Cesar BALDO,M,17,8,1973,La Plata
+11,57,Fernando LINARES,M,28,5,1964,City Bell
+12,0,Gerardo Gabriel HEINRICH,M,27,10,1979,Rio Cuarto
+12,2,María Jose PERUJO,F,7,8,1984,Comodoro Rivadavia
+12,7,Emanuel GONZÁLEZ PONCE,M,31,5,1979,La Plata
+12,8,Pablo BALLETO,M,18,3,1982,La Plata
+12,13,Mariano PEREA,M,1,9,1974,Buenos Aires
+12,21,Iván URLICH,M,14,12,1970,Caba
+12,25,Damian TOLOSA,M,22,12,1970,La Plata
+12,28,Irina DADONE,F,25,7,1989,Caba
+12,31,Cintia MACARIO,F,12,5,1981,Cipolletti
+12,38,Juan Martin CRESPO,M,23,6,1970,La Plata
+12,42,Dolores Jesica MOLINA,F,22,1,1989,Córdoba
+12,47,Manuel DEL POZO,M,18,12,1981,Caba
+13,0,Daniela SECONDO,F,18,1,1980,San Carlos de Bariloche
+13,1,Guillermo FERREIRA,M,9,6,1988,Caba
+13,2,Gaston CONTRERAS,M,17,1,1984,Córdoba
+13,3,Ramón Aníbal SANCHEZ,M,2,3,1959,Mendoza
+13,5,Paola Natalia  SANTILLI,F,21,7,1976,La Plata
+13,6,Emiliano ROLDAN,M,4,6,1982,Caba
+13,6,Juan Marcos German PATERNO,M,5,5,1979,Buenos Aires
+13,12,Carlina CASALINI,F,10,11,1992,General Roca
+13,12,Roberto TULLI,M,15,1,1984,Bahía Blanca
+13,12,Franco TRONELLI,M,28,11,1993,Bahía Blanca
+13,13,Daniela TKACH,F,5,3,1984,Buenos Aires
+13,18,Fernando FIORENZA,M,10,8,1978,Buenos Aires
+13,19,Pablo LLEDO,M,20,8,1971,Guaymallén
+13,21,Mariela Alejandra ASTUDILLO,F,11,10,1975,Buenos Aires
+13,23,Alejandro DANIELI,M,17,1,1981,Rosario
+13,29,Alejo BARROS,M,12,12,1988,Buenos Aires
+13,35,Pablo NAVARRO,M,30,10,1981,San Carlos de Bariloche
+13,46,Laura ALETTI TASSARA,F,3,1,1984,Buenos Aires
+13,55,Mayra DIAZ BARCOS,F,1,6,1978,Buenos Aires
+13,56,Mariela VARELA,F,16,2,1978,Buenos Aires
+13,56,Vanina Andrea STROBL,F,14,12,1978,Esquel
+14,0,Carolina FERELLA,F,4,6,2001,Buenos Aires
+14,16,Sandra Virginia SORAD,F,18,5,1965,Mar Del Plata
+14,17,Fabiola Andrea SARCHIONE,F,2,7,1970,Buenos Aires
+14,25,Daniel DELGADO,M,20,5,1970,Buenos Aires
+14,27,Veronica MOYANO,F,7,9,1986,Caba
+14,38,Griselda Irene PRATES,F,24,5,1967,Bahía Blanca
+14,45,Louis DARLET,M,25,10,1967,Chamonix
+14,48,Esteban Pascual URIA,M,17,5,1991,La Carlota
+14,52,Benjamín CRUZ,M,6,10,1980,Caba
+14,53,Mariela COMPARIN,F,25,1,1971,Magdalena
+15,0,Matias LELLI,M,15,2,1980,La Plata
+15,8,Diego BACIGALUPO,M,25,10,1968,Buenos Aires
+15,12,Alicia KRUMNACK,F,9,3,1964,La Plata
+15,14,Jorge HERRERA,M,2,12,1980,La Plata
+15,15,Pablo RAMOS,M,2,11,1971,Córdoba
+15,15,Jorgelina PEREYRA,F,11,4,1990,Córdoba
+15,20,Ana Claudia BARBIERI,F,1,5,1968,City Bell
+15,23,Patricia SCHMIDT,F,4,10,1977,La Plata
+15,33,Esteban BLANCO,M,18,12,1963,La Plata
+15,45,María Mercedes ATELA,F,16,12,1972,San Miguel del Monte
+16,9,Maria Marta ORTELLI,F,7,4,1963,La Plata
+16,18,Andres RIEGNER,M,25,3,1971,Buenos Aires
+16,19,Gabriela Leonor ARES,F,28,4,1976,Caba
+16,21,Constanza NOGUEIRA,F,3,12,1965,City Bell
+16,22,Luis Sebastián SANZ,M,24,2,1977,Posadas
+16,26,Marta AMPUERO,F,13,8,1974,San Carlos de Bariloche
+16,26,Carolina MAURI,F,7,6,1980,La Plata
+16,26,María Juliana ANDRADE,F,14,3,1977,La Plata
+16,31,Monica Marcela LEFELD,F,16,2,1977,Buenos Aires
+16,32,Graciana BASLA,F,1,1,1974,Buenos Aires
+16,33,Jose RUIZ HIDALGO,M,16,12,1982,San Miguel de Tucumán
+16,36,Eliana Noemi TUDELA,F,1,12,1973,Córdoba
+16,40,Graciela CURUCHET,F,25,12,1960,Tandil
+16,40,Marcelo Alejandro GONZALEZ REDONDO,M,16,2,1960,Tandil
+16,42,Isabel BULLRICH,F,20,4,1988,Buenos Aires
+16,49,Carolina GARCIA MASSANO,F,11,11,1972,La Plata
+16,50,Andrea Maria COLL PEREZ,F,2,10,1979,Canelones
+16,52,Lucia MOSER,F,23,2,1996,Buenos Aires
+17,4,Andrea Viviana AGUIRRE,F,22,1,1971,City Bell
+17,6,Nelson VALLEJO,M,15,8,1980,Canelones
+17,11,Alejandro BIANCHI,M,2,4,1956,City Bell
+17,17,Maria Ines MARRAZZO,F,2,10,1978,Buenos Aires
+17,18,Daniela SANTAMARIA,F,4,12,1976,Córdoba
+17,33,Ricardo SADOWSKI,M,28,1,1952,San Carlos de Bariloche
+17,43,Agustina NIEVAS,F,3,11,1978,La Plata
+17,46,Maria Paula NEGRONI,F,18,3,1978,Buenos Aires
+17,47,Claudia Rita Cecilia ARIAS,F,23,12,1975,Córdoba
+17,49,Constanza CREGO,F,27,3,1983,Mar Del Plata
+17,49,Silvia SIANO,F,15,8,1965,Mar de Ajo
+18,1,Marcelo PERALTA,M,23,1,1968,Buenos Aires
+18,4,Veronica Andrea MARTINEZ,F,15,2,1971,Buenos Aires
+18,4,María Angélica MATALLANA KNOLL,F,27,5,1981,Buenos Aires
+18,4,Veronica BROZZONI,F,5,7,1967,Buenos Aires
+18,5,Esteban HERNANDEZ,M,4,10,1967,City Bell
+18,8,Maria Julia DELLAPITTIMA,F,13,5,1980,La Plata
+18,18,Javier Andres SANCHEZ,M,23,7,1983,Buenos Aires
+18,21,Daniela BALIÑO,F,29,11,1976,City Bell
+18,31,Cecilia LEZCANO,F,25,8,1983,Centenario
+18,36,Karina FUENTES,F,28,11,1976,Caba
+18,46,Norberto SHINGAKI,M,14,2,1962,Caba
+18,56,Bárbara Luz GIORSEMINO,F,9,4,1980,Buenos Aires
+19,12,Laura  GORDON SERODIO,F,13,4,1976,Mar Del Plata
+19,27,Carolina Graciela PALOMO,F,3,11,1979,Buenos Aires
+19,28,Nanci Guadalupe SILVA,F,25,2,1966,Buenos Aires
+19,35,Graciela SILVA,F,1,2,1967,La Plata
+19,59,Marcelo VALVA,M,20,4,1964,Caba
+19,59,Javier CORTEZ,M,5,4,1968,Caba
+20,8,Federico M DI PAOLA,M,26,6,1959,Buenos Aires
+20,53,Andrea Gabriela MARINI,F,4,4,1970,La Plata
